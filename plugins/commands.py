@@ -218,6 +218,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton("CHANNEL", url="https://t.me/closechapters2_0"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
                 ]
             ]
         ),
