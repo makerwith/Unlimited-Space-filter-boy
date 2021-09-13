@@ -65,12 +65,8 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "BOT UPDATES", url="https://t.me/SPACE_BOtZ")
-                ],
-                [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("🤔 Help", callback_data="help_data"),
+                    InlineKeyboardButton("Close 🔒", callback_data="close_data"),
                 ]                
             ]
         )
