@@ -245,12 +245,9 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("BOT UPDATES", url="https://t.me/SPACE_BOtZ"),
+                    
+                    InlineKeyboardButton("HELP 🤔", callback_data="help_data"),
                     InlineKeyboardButton("ABOUT 🤖", callback_data="about_data")
-                ],
-                [
-                    InlineKeyboardButton("CHANNEL", url="https://t.me/Closechapters2_0"),
-                    InlineKeyboardButton("GROUP", url="https://t.me/Movie_loverz_group")
                 ]
             ]
         ),
