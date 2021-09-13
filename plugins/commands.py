@@ -246,8 +246,8 @@ async def help(client, message):
             [
                 [
                     
-                    InlineKeyboardButton("HELP 🤔", callback_data="help_data"),
-                    InlineKeyboardButton("ABOUT 🤖", callback_data="about_data")
+                    InlineKeyboardButton("ABOUT 🤖", callback_data="about_data"),
+                    InlineKeyboardButton("CLOSE 🔒", callback_data="close_data")
                 ]
             ]
         ),
@@ -268,7 +268,7 @@ async def about(client, message):
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("CLOSE 🔒", callback_data="close_data"),
                 ]                
             ]
         ),
