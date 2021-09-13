@@ -1,7 +1,7 @@
 class Script(object):
 
-    START_MSG = """I'm HHT !
-You Can't Use Me, Don't Waste Your Time.</b>
+    START_MSG = """<b>I'm HHT !
+You Can't Use Me, Don't Waste Your Time</b>
 """
 
 
