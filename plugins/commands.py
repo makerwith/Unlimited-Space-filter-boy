@@ -218,8 +218,8 @@ async def start(client, message):
             [
                 [
                
-                    InlineKeyboardButton("HELP 🤔", callback_data="help_data"),
-                    InlineKeyboardButton("ABOUT 🤖", callback_data="about_data")
+                    InlineKeyboardButton("🤔 Help", callback_data="help_data"),
+                    InlineKeyboardButton("About 🤖", callback_data="about_data")
                 ]
             ]
         ),
@@ -246,8 +246,8 @@ async def help(client, message):
             [
                 [
                     
-                    InlineKeyboardButton("ABOUT 🤖", callback_data="about_data"),
-                    InlineKeyboardButton("CLOSE 🔒", callback_data="close_data")
+                    InlineKeyboardButton("About 🤖", callback_data="about_data"),
+                    InlineKeyboardButton("Close 🔒", callback_data="close_data")
                 ]
             ]
         ),
@@ -263,12 +263,9 @@ async def about(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "BOT UPDATES", url="https://t.me/SPACE_BOtZ")
-                ],
-                [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE 🔒", callback_data="close_data"),
+                    
+                    InlineKeyboardButton("🤔 Help", callback_data="help_data"),
+                    InlineKeyboardButton("Close 🔒", callback_data="close_data"),
                 ]                
             ]
         ),
