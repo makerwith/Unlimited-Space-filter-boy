@@ -5,7 +5,7 @@ class Script(object):
 I'm HHT !
 You Can't Use Me, Don't Waste Your Time:)
 
-See <i>/help</i> for commands and more details.</b>
+@SPACE_BOtZ.</b>
 """
 
 
