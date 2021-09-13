@@ -217,10 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Developer", url="https://t.me/SPACE_BOtZ"),
-                    ],
-
-                [
+               
                     InlineKeyboardButton("HELP 🤔", callback_data="help_data"),
                     InlineKeyboardButton("ABOUT 🤖", callback_data="about_data")
                 ]
