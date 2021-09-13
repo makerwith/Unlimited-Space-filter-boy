@@ -3,9 +3,7 @@ class Script(object):
     START_MSG = """<b>Hy {},
 
 I'm HHT !
-You Can't Use Me, Don't Waste Your Time:)
-
-@SPACE_BOtZ.</b>
+You Can't Use Me, Don't Waste Your Time.</b>
 """
 
 
