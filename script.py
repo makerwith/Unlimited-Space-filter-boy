@@ -8,7 +8,7 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """⭕️<b>ABOUT ME</b>
+    ABOUT_MSG = """<b>ABOUT ME</b>
 
 ○<b>Creater :</b> @SPACE_BOtZ    
 
