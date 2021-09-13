@@ -248,12 +248,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("SOURCE CODE", url="https://t.me/joinchat/eZk8OSmHwR5jYTJl"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("SOURCE CODE", url="https://t.me/SPACE_BOtZ"),
+                    InlineKeyboardButton("ABOUT🤖", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Channel", url="https://t.me/Closechapters2_0"),
-                    InlineKeyboardButton("Group", url="https://t.me/Movie_loverz_group")
+                    InlineKeyboardButton("CHANNEL", url="https://t.me/Closechapters2_0"),
+                    InlineKeyboardButton("GROUP", url="https://t.me/Movie_loverz_group")
                 ]
             ]
         ),
