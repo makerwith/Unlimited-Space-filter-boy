@@ -1,8 +1,6 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
-
-I'm HHT !
+    START_MSG = """I'm HHT !
 You Can't Use Me, Don't Waste Your Time.</b>
 """
 
