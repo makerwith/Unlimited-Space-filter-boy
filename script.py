@@ -8,12 +8,12 @@ class Script(object):
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>ABOUT ME</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+○<b>Creater :</b> @SPACE_BOtZ    
 
-⭕️<b>Language :</b> <code>Python3</code>
+○<b>Language :</b> <code>Python 3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+○<b>Library :</b> <a href='https://github.com/pyrogram/pyrogram'>Pyrogram Asyncio 1.2.9</a> 
 
 """
