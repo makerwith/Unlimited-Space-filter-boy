@@ -10,8 +10,8 @@ class Script(object):
 
     ABOUT_MSG = """<b>ABOUT ME</b>
 
-○<b>Creater :</b> @SPACE_BOtZ
-○<b>Language :</b> <code>Python 3</code>
-○<b>Library :</b> <a href='https://github.com/pyrogram/pyrogram'>Pyrogram Asyncio 1.2.9</a> 
+○<b>Creater : @SPACE_BOtZ</b>
+○<b>Language : <code>Python 3</code></b>
+○<b>Library : <a href='https://github.com/pyrogram/pyrogram'>Pyrogram Asyncio 1.2.9</a></b>
 
 """
